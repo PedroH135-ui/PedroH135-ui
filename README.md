@@ -3,7 +3,7 @@
 **`Desenvolvedor FullStack`**
 
 Olá! Me chamo Pedro Henrique e sou apaixonado por desenvolvimento web e tecnologia.  
-Atualmente estou aprimorando meus conhecimentos em HTML, CSS, JavaScript, TypeScript, React, Next.js, PHP, Laravel e outras tecnologias, criando projetos práticos e compartilhando no GitHub.
+Atualmente estou aprimorando meus conhecimentos em HTML, CSS, JavaScript, TypeScript, React, Next.js e outras tecnologias, criando projetos práticos e compartilhando no GitHub.
 
 <p align="left">
     <a href="https://github.com/PedroH135-ui">
